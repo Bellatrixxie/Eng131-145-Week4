@@ -13,3 +13,7 @@ Charizard is the best!
 Wartortle
 
 Butterfree
+
+Absol
+
+Dragonair
