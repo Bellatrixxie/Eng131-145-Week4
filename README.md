@@ -7,3 +7,9 @@ Pikachu
 Bulbosaur
 
 Charmander
+
+Charizard is the best!
+
+Wartortle
+
+Butterfree
